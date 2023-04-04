@@ -1,0 +1,130 @@
+.gtr{
+	border:10px solid black;
+	width:800px;
+	height:800px;
+	background-image:url(image/bike.jpeg);
+}
+
+.h2r{
+	border:10px solid black;
+	width:800px;
+	height:800px;
+	background-image:url(image/bike.jpeg);
+	background-repeat:repeat-x;
+}
+
+.dell{
+	border:10px solid black;
+	width:800px;
+	height:800px;
+	background-image:url(image/bike.jpeg);
+	background-repeat:repeat-y;
+}
+
+.tnpl{
+	border:10px solid black;
+	width:800px;
+	height:800px;
+	background-image:url(image/bike.jpeg);
+	background-repeat:no-repeat;
+}
+
+.oppo{
+	border:10px solid black;
+	width:800px;
+	height:800px;
+	background-image:url(image/bike.jpeg);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+}
+
+.nokia{
+	border:10px solid black;
+	width:800px;
+	height:800px;
+	background-image:url(image/bike.jpeg);
+	background-attachment:scroll;
+	background-repeat:no-repeat;
+}
+
+.lava{
+	border:10px solid black;
+	width:800px;
+	height:800px;
+	background-image:url(image/bike.jpeg);
+	background-repeat:no-repeat;
+	background-position:left top;
+}
+
+.rere{
+	border:10px solid black;
+	width:800px;
+	height:800px;
+	background-image:url(image/bike.jpeg);
+	background-repeat:no-repeat;
+	background-position:left center;
+}
+
+.didi{
+	border:10px solid black;
+	width:800px;
+	height:800px;
+	background-image:url(image/bike.jpeg);
+	background-repeat:no-repeat;
+	background-position:left bottom;
+}
+
+
+.kiki{
+	border:10px solid black;
+	width:800px;
+	height:800px;
+	background-image:url(image/bike.jpeg);
+	background-repeat:no-repeat;
+	background-position:right center;
+}
+
+.love{
+	border:10px solid black;
+	width:800px;
+	height:800px;
+	background-image:url(image/bike.jpeg);
+	background-repeat:no-repeat;
+	background-position:right bottom;
+}
+
+.money{
+	border:10px solid black;
+	width:800px;
+	height:800px;
+	background-image:url(image/bike.jpeg);
+	background-repeat:no-repeat;
+	background-position:right top ;
+}
+
+.hh{
+	border:10px solid black;
+	width:800px;
+	height:800px;
+	background-image:url(image/bike.jpeg);
+	background-repeat:no-repeat;
+	background-position:center top ;
+}
+
+.bb{
+	border:10px solid black;
+	width:800px;
+	height:800px;
+	background-image:url(image/bike.jpeg);
+	background-repeat:no-repeat;
+	background-position:center center ;
+}
+
+.jj{
+	border:10px solid black;
+	width:800px;
+	height:800px;
+	background-image:url(image/bike.jpeg);
+	background-repeat:no-repeat;
+	background-position:center bottom;
+}
